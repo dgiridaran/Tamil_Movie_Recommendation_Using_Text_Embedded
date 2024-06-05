@@ -1,6 +1,6 @@
 # Tamil_Movie_Recommendation_Based_On_Similar_Plots
 
-[Demo Video](videos/demo_video.webm)
+[demo_video.webm](https://github.com/dgiridaran/Tamil_Movie_Recommendation_Using_Text_Embedded/assets/58911376/cd963776-2c19-4355-a2b8-2ecc0e66f6ce)
 
 This is a movie recommender system for Tamil movies, built using SBERT embedding for recommendation based on similar plots, and TFIDF embedding for searching by title of the movie. 
 
