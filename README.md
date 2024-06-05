@@ -1,5 +1,7 @@
 # Tamil_Movie_Recommendation_Based_On_Similar_Plots
 
+![Demo Video](videos/demo_gif.gif)
+
 This is a movie recommender system for Tamil movies, built using SBERT embedding for recommendation based on similar plots, and TFIDF embedding for searching by title of the movie. 
 
 # Data Collection
