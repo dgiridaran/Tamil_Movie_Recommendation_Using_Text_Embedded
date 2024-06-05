@@ -9,7 +9,7 @@ import pickle
 pd.set_option('display.max_colwidth', None)
 
 df = pd.read_csv('data/tamil_movies_1990_2024_cleaned.csv')
-st.title('Movie Recommender System')
+st.title('Tamil Movie Recommender System (1990 - 2024)')
 movie_name = st.text_input("Enter the movie name: ")
 search_butten = st.button("Search")
 
